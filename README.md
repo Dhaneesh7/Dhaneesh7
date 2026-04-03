@@ -13,8 +13,8 @@
 - **Tools:** Git, GitHub, VS Code, Postman
 
 ## 📂 Featured Projects
-- [QuicKart (E-commerce platform](link :-https://quickart-mern-deploy.vercel.app/ -) A e-commerce website developed using MERN stack, where user can browse product,add to Cart , purchase etc,admin manage products and users
-- [personal portfolio platform](link :-https://dhaneesh-v-jayakumaranportfolio-mern.vercel.app/) - A portfolio about myself, about my skills, projects, education etc
+- QuicKart (E-commerce platform)(link :-https://quickart-mern-deploy.vercel.app/ -) A e-commerce website developed using MERN stack, where user can browse product,add to Cart , purchase etc,admin manage products and users
+- personal portfolio platform(link :-https://dhaneesh-v-jayakumaranportfolio-mern.vercel.app/) - A portfolio about myself, about my skills, projects, education etc
 
 
 
